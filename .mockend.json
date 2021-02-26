@@ -1,0 +1,19 @@
+{
+  "User": {
+    "id": "string",
+    "email": "string",
+    "password": "string",
+    "personal_id": "int",
+    "firstname": "string",
+    "lastname": "string",
+    "birthdate": "date",
+    "phone": "int",
+    "address": "string",
+    "personal_id_photo": "string",
+    "createdAt": "date",
+    "createdBy": "User",
+    "salt": "string",
+    "reset_token": "string",
+    "reset_token_exp": "int"
+  }
+}
